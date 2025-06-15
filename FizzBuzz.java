@@ -1,10 +1,10 @@
-/*
-* FizzBuzz.java: Java program that prints numbers from 1 to 100, following the rules of FizzBuzz...
-*
-* @author Armaan Damani
-* @version 1.0
-* 
-*/
+/**
+ * FizzBuzz.java: Java program that prints numbers from 1 to 100, following the rules of FizzBuzz...
+ *
+ * @author Armaan Damani
+ * @version 1.0
+ * 
+ */
 
 public class FizzBuzz {
     public static void main(String[] args) {
